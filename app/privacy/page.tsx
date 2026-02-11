@@ -17,7 +17,7 @@ export default function PrivacyPage() {
 
           <div className="prose prose-gray max-w-none space-y-6 text-gray-700">
             <p>
-              Minty Services, LLC. (the "Company") respects the privacy concerns of the users of its website, www.stevenrabulan.com and the services provided therein (the "Site"). The Company thus provides this privacy statement to explain what information is gathered during a visit to the Site and how such information may be used.
+              Minty Services, LLC. (the &quot;Company&quot;) respects the privacy concerns of the users of its website, www.stevenrabulan.com and the services provided therein (the &quot;Site&quot;). The Company thus provides this privacy statement to explain what information is gathered during a visit to the Site and how such information may be used.
             </p>
 
             <p>
@@ -26,33 +26,33 @@ export default function PrivacyPage() {
 
             <h2 className="text-2xl font-bold text-gray-900 mt-8 mb-4">Use of Information</h2>
             <p>
-              As a general policy, no personally identifiable information, such as your name, address, or e-mail address, is automatically collected from your visit to the Site. However, certain non-personal information is recorded by the standard operation of the Company's internet servers. Information such as the type of browser being used, its operating system, and your IP address is gathered in order to enhance your online experience.
+              As a general policy, no personally identifiable information, such as your name, address, or e-mail address, is automatically collected from your visit to the Site. However, certain non-personal information is recorded by the standard operation of the Company&#39;s internet servers. Information such as the type of browser being used, its operating system, and your IP address is gathered in order to enhance your online experience.
             </p>
 
             <p>
-              The Site's various mailing lists, downloads, special offers, contests, registration forms, and surveys may request that you give us contact information such as your name, mailing and/or e-mail address, demographic information such as your age and gender, and personal preference information such as your preferred software and interests. Information submitted at the time of submission will be used by the Company only as necessary for our legitimate business interests, including without limitation the improvement of our products, services and the contents of the Site. The Company may also share such information with our business and promotional partners to further those interests. Personally identifiable information is never sold or leased to any third parties. With your permission, we may use your contact information to send you information about our company and products. You may always opt-out of receiving future mailings as provided below. The Company does not store any credit card information it may receive in regard to a specific transaction and/or billing arrangement except as necessary to complete and satisfy its rights and obligations with regard to such transaction, billing arrangement, and/or as otherwise authorized by a user.
+              The Site&#39;s various mailing lists, downloads, special offers, contests, registration forms, and surveys may request that you give us contact information such as your name, mailing and/or e-mail address, demographic information such as your age and gender, and personal preference information such as your preferred software and interests. Information submitted at the time of submission will be used by the Company only as necessary for our legitimate business interests, including without limitation the improvement of our products, services and the contents of the Site. The Company may also share such information with our business and promotional partners to further those interests. Personally identifiable information is never sold or leased to any third parties. With your permission, we may use your contact information to send you information about our company and products. You may always opt-out of receiving future mailings as provided below. The Company does not store any credit card information it may receive in regard to a specific transaction and/or billing arrangement except as necessary to complete and satisfy its rights and obligations with regard to such transaction, billing arrangement, and/or as otherwise authorized by a user.
             </p>
 
             <p>
-              The Company may disclose user information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference (either intentionally or unintentionally) with the Company's rights or property, other users of the Site, or anyone else that could be harmed by such activities.
+              The Company may disclose user information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference (either intentionally or unintentionally) with the Company&#39;s rights or property, other users of the Site, or anyone else that could be harmed by such activities.
             </p>
 
             <h2 className="text-2xl font-bold text-gray-900 mt-8 mb-4">Children Age 13 and Under</h2>
             <p>
-              The Company recognizes the special obligation to protect personally identifiable information obtained from children age 13 and under. AS SUCH, IF YOU ARE 13 YEARS OLD OR YOUNGER, THE COMPANY REQUESTS THAT YOU NOT SUBMIT ANY PERSONAL INFORMATION TO THE SITE OR TO THE COMPANY. If the Company discovers that a child age 13 or younger has signed up on the Site or provided us with personally identifiable information, we will delete that child's identifiable information from our records.
+              The Company recognizes the special obligation to protect personally identifiable information obtained from children age 13 and under. AS SUCH, IF YOU ARE 13 YEARS OLD OR YOUNGER, THE COMPANY REQUESTS THAT YOU NOT SUBMIT ANY PERSONAL INFORMATION TO THE SITE OR TO THE COMPANY. If the Company discovers that a child age 13 or younger has signed up on the Site or provided us with personally identifiable information, we will delete that child&#39;s identifiable information from our records.
             </p>
 
-            <p>The Company nonetheless encourages parents to go online with their kids. Here are a few tips to help make a child's online experience safer:</p>
+            <p>The Company nonetheless encourages parents to go online with their kids. Here are a few tips to help make a child&#39;s online experience safer:</p>
             <ol className="list-decimal list-inside space-y-2 ml-4">
               <li>Teach kids never to give personal information, unless supervised by a parent or responsible adult. Includes name, address, phone, school, etc.</li>
               <li>Know the sites your kids are visiting and which sites are appropriate.</li>
-              <li>Look for Website privacy policies. Know how your child's information is treated.</li>
-              <li>Check out the FTC's site for more tips on protecting children's privacy online</li>
+              <li>Look for Website privacy policies. Know how your child&#39;s information is treated.</li>
+              <li>Check out the FTC&#39;s site for more tips on protecting children&#39;s privacy online</li>
             </ol>
 
             <h2 className="text-2xl font-bold text-gray-900 mt-8 mb-4">Use of Cookies</h2>
             <p>
-              Cookies are pieces of information that a website transfers to an individual's computer hard drive for record keeping purposes. Cookies make using our Site easier by, among other things, saving your passwords and preferences for you. These cookies are restricted for use only on our Site, and do not transfer any personal information to any other party. Most browsers are initially set up to accept cookies. You can, however, reset your browser to refuse all cookies or indicate when a cookie is being sent. Please consult the technical information relevant to your browser for instructions. If you choose to disable your cookies setting or refuse to accept a cookie, some parts of the Site may not function properly or may be considerably slower.
+              Cookies are pieces of information that a website transfers to an individual&#39;s computer hard drive for record keeping purposes. Cookies make using our Site easier by, among other things, saving your passwords and preferences for you. These cookies are restricted for use only on our Site, and do not transfer any personal information to any other party. Most browsers are initially set up to accept cookies. You can, however, reset your browser to refuse all cookies or indicate when a cookie is being sent. Please consult the technical information relevant to your browser for instructions. If you choose to disable your cookies setting or refuse to accept a cookie, some parts of the Site may not function properly or may be considerably slower.
             </p>
 
             <p>Company uses the following cookies on the Site:</p>
@@ -104,12 +104,12 @@ export default function PrivacyPage() {
 
             <h2 className="text-2xl font-bold text-gray-900 mt-8 mb-4">Links to External Sites</h2>
             <p>
-              The Company is not responsible for the content or practices of third party websites that may be linked to the Site. The Company is also not responsible for any information that you might share with such linked websites. You should refer to each website's respective privacy policy and practices prior to disclosing any information.
+              The Company is not responsible for the content or practices of third party websites that may be linked to the Site. The Company is also not responsible for any information that you might share with such linked websites. You should refer to each website&#39;s respective privacy policy and practices prior to disclosing any information.
             </p>
 
             <h2 className="text-2xl font-bold text-gray-900 mt-8 mb-4">Bulletin Boards and Chat Areas</h2>
             <p>
-              Guests of the Site are solely responsible for the content of messages they post on the Company's forums, such as chat rooms and bulletin boards. Users should be aware that when they voluntarily disclose personal information (e.g., user name, e-mail address, phone number) on the bulletin boards or in the chat areas, that information can be collected and used by others and may result in unsolicited messages from other people. You are responsible for the personal information you choose to submit in these instances. Please take care when using these features.
+              Guests of the Site are solely responsible for the content of messages they post on the Company&#39;s forums, such as chat rooms and bulletin boards. Users should be aware that when they voluntarily disclose personal information (e.g., user name, e-mail address, phone number) on the bulletin boards or in the chat areas, that information can be collected and used by others and may result in unsolicited messages from other people. You are responsible for the personal information you choose to submit in these instances. Please take care when using these features.
             </p>
 
             <h2 className="text-2xl font-bold text-gray-900 mt-8 mb-4">Choice/Opt-Out</h2>

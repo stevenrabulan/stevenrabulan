@@ -14,7 +14,7 @@ export default function Hero() {
 
           {/* Text Content */}
           <div className="text-center md:text-left">
-            <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-white mb-4">Hey, I'm Steven</h1>
+            <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-white mb-4">Hey, I&#39;m Steven</h1>
             <p className="text-xl md:text-2xl text-gray-400 mb-8 max-w-lg">I help you get more customers on the internet</p>
             <a href="mailto:steven.rabulan@gmail.com" className="inline-block bg-primary hover:bg-primary-hover text-white font-bold px-8 py-4 rounded-lg transition-colors uppercase tracking-wide font-heading">
               Shoot Me a Message

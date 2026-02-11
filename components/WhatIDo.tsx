@@ -7,8 +7,8 @@ const services = [
       "I'm a Growth Engineer with 12 years of experience in experimentation, funnel optimization, and turning business goals into scalable solutions. Currently on sabbatical and open to remote roles at product-driven companies.",
   },
   {
-    title: 'DJ & produce remixes',
-    description: 'I curate the best hip-hop and R&B remixes on the internet and upload DJ sets to',
+    title: 'DJ &amp; produce remixes',
+    description: 'I curate the best hip-hop and R&amp;B remixes on the internet and upload DJ sets to',
     links: [
       { text: 'Soundcloud', href: 'https://soundcloud.com/djsteeeve' },
       { text: 'YouTube', href: 'https://youtube.com/@djsteeeve' },
@@ -28,7 +28,7 @@ export default function WhatIDo() {
     <section className="bg-light py-20">
       <div className="max-w-3xl mx-auto px-6">
         <h2 className="text-3xl md:text-4xl font-bold text-gray-900 text-center mb-4">
-          Here's what I do
+          Here&#39;s what I do
         </h2>
         <div className="w-12 h-1 bg-primary mx-auto mb-12 rounded-full" />
 
