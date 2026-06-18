@@ -3,7 +3,7 @@ import Link from "next/link";
 const services = [
   {
     title: "Build and optimize products that grow",
-    description: "I'm a Growth Engineer with 12 years of experience in experimentation, funnel optimization, and turning business goals into scalable solutions. Currently on sabbatical and open to remote roles at product-driven companies.",
+    description: "I'm a Growth Engineer with 12 years of experience in experimentation, funnel optimization, and turning business goals into scalable solutions. Currently on sabbatical, but I'm open to remote roles and consulting on growth-focused projects.",
   },
   {
     title: "DJ & produce remixes",
