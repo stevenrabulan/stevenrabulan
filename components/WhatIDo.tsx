@@ -2,8 +2,13 @@ import Link from "next/link";
 
 const services = [
   {
+    title: "Help local business owners get caught up with AI",
+    description: "I help local business owners use AI to save time and get more customers. If I don't save you time, you don't pay.",
+  },
+  {
     title: "Build and optimize products that grow",
-    description: "I'm a Growth Engineer with 12 years of experience in experimentation, funnel optimization, and turning business goals into scalable solutions. Currently on sabbatical, but I'm open to remote roles and consulting on growth-focused projects.",
+    description:
+      "I'm a Growth Product Manager and Software Engineer with 12 years of experience in experimentation, funnel optimization, and turning business goals into scalable solutions. I'm open to remote roles and consulting on growth-focused projects that incorporate AI.",
   },
   {
     title: "DJ & produce remixes",
@@ -12,11 +17,6 @@ const services = [
       { text: "Soundcloud", href: "https://soundcloud.com/djsteeeve" },
       { text: "YouTube", href: "https://youtube.com/@djsteeeve" },
     ],
-  },
-  {
-    title: "Help businesses grow online",
-    description: "I improve your ROI by making your website easier to buy from.",
-    extra: "I also help small business owners with their technology so they can focus on the part they enjoy most.",
   },
 ];
 
@@ -47,7 +47,6 @@ export default function WhatIDo() {
                   </>
                 )}
               </p>
-              {service.extra && <p className="text-gray-600 leading-relaxed mt-4">{service.extra}</p>}
             </div>
           ))}
         </div>
