@@ -2,13 +2,12 @@ import Link from "next/link";
 
 const services = [
   {
-    title: "Help local business owners get caught up with AI",
-    description: "I help local business owners use AI to save time and get more customers. If I don't save you time, you don't pay.",
+    title: "Build and optimize products that grow",
+    description: "I'm a Growth Product Manager and Software Engineer with 12 years of experience in experimentation, funnel optimization, and turning business goals into scalable solutions. Open to growth product manager and product-builder roles.",
   },
   {
-    title: "Build and optimize products that grow",
-    description:
-      "I'm a Growth Product Manager and Software Engineer with 12 years of experience in experimentation, funnel optimization, and turning business goals into scalable solutions. I'm open to remote roles and consulting on growth-focused projects that incorporate AI.",
+    title: "Help local business owners get caught up with AI",
+    description: "I help local business owners use AI to save time and get more customers. If I don't save you time, you don't pay.",
   },
   {
     title: "DJ & produce remixes",
