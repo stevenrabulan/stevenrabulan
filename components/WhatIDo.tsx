@@ -3,7 +3,8 @@ import Link from "next/link";
 const services = [
   {
     title: "Build and optimize products that grow",
-    description: "I'm a Growth Product Manager and Software Engineer with 12 years of experience in experimentation, funnel optimization, and turning business goals into scalable solutions. Open to growth product manager and product-builder roles.",
+    description:
+      "I'm a Growth Product Manager and Software Engineer with 12 years of experience in lead-generation, experimentation, and funnel optimization previously at CraftJack and Angi Home Services. I'm open to growth product manager and product-builder roles.",
   },
   {
     title: "Help local business owners get caught up with AI",
